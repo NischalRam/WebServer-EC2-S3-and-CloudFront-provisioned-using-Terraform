@@ -1,0 +1,6 @@
+#provider
+
+provider "aws" {
+  profile = "nischal"
+  region  = "ap-south-1"
+}
