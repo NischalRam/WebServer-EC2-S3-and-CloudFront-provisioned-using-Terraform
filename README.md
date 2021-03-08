@@ -4,10 +4,10 @@
 <ul>
   <li>Create the key and security group which allows the ports.
 like
-    <ol>
+    <ul style="list-style-type:circle>
  <li> a.shh port : 22</li>
   <li>b.http port:80</li>
-      </ol>
+      </ul>
       </li>
   <li>Launch EC2 instance</li>
   <li> in the EC2 instance use the key and security group which we have created in step 1</li>
