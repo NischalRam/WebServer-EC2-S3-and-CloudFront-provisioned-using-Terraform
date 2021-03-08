@@ -17,3 +17,6 @@ like
   <li>Create an S3 bucket, and deploy the images from GitHub Repositories or from the local file into the S3 bucket and change the permission to public readable. (so that everyone can access )</li>
   <li>Create a Cloudfront using S3 bucket(which contains images) and use the Cloudfront URL to update in code in /var/www/html</li>
 </ul>
+
+everything is expected here 🔗
+ <a href= "https://nischalvooda.medium.com/webserver-ec2-s3-and-cloudfront-provisioned-using-terraform-github-40b659e99ae6" target="_blank">Blog</a>
